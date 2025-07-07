@@ -1,0 +1,44 @@
+1. What is Gas?
+
+Gas is like the fuel for doing things on the Ethereum network.
+Just like cars need petrol to move, Ethereum needs gas to do things like send money, run apps, or swap tokens.
+
+
+
+2. What is the Purpose of Gas in Ethereum Transactions?
+
+Gas is used to pay the computers (called nodes) that help run the Ethereum network.
+When you send a transaction, like swapping one token for another, you need to pay gas to make it happen.
+Without gas, the computers won’t do your job.
+
+
+
+3. EIP-1559 How Did It Change Gas Fees?
+
+Before EIP-1559, people had to guess how much gas to pay. If they paid too little, their transaction failed. If they paid too much, they overpaid.
+
+EIP-1559 fixed this by adding three parts
+
+ Base Fee – This is the minimum gas fee everyone must pay. It goes up when the network is busy and down when it's quiet.
+
+ Priority Fee (Tip) – If you want your transaction to go faster, you can add a tip to encourage miners to pick yours first.
+
+Burning – The base fee you pay is burned (destroyed). This makes Ethereum more scarce, like burning money, which can help its value go up.
+
+
+
+4. What is Slippage and How Does It Relate to Gas?
+
+ Slippage happens when the price changes between the time you start a transaction and when it finishes.
+For example, if you want to swap 1 ETH for 100 tokens, but the price changes quickly, you might get only 95 tokens instead. That’s slippage.
+
+Slippage can get worse when:
+
+The network is very busy (lots of people are using it).
+
+Gas fees are high, and your transaction is delayed.
+
+Many people are trying to do the same swap at once.
+
+
+So if your gas fee is too low, your transaction might be too slow, and slippage might hurt you more.
