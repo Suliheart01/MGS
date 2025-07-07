@@ -41,4 +41,4 @@ Gas fees are high, and your transaction is delayed.
 Many people are trying to do the same swap at once.
 
 
-So if your gas fee is too low, your transaction might be too slow, and slippage might hurt you more.
+So if your gas fee is too low, your transaction might be too slo and slippage might hurt you more.
